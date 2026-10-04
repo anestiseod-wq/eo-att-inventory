@@ -3,3 +3,5 @@ pandas
 supabase
 st-supabase-connection
 pillow
+folium
+streamlit-folium
